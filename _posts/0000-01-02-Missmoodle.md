@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+>ambition is the hunger of the soul
 Use the left arrow to go back!
